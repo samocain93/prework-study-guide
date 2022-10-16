@@ -13,7 +13,7 @@ N/A
 To effectively use this study guide, please see the notes provided in each section. For a page-suggested topic on what to study first, you can visit the console via Chrom DevTools by right-clicking on the page and clicking "Inspect", or by pressing Command+Option+I on Mac or Control+Shift+I on Windows. A console panel should open with the list of topics and a suggestion on what subject to begin studying. For a new subject, just hit refresh!
 A screenshot with an example of how your console should look after opening DevTools is provided below.
 
-![DevTools screenshot with console](assets/images/console-screenshot.png)
+![DevTools screenshot with console](prework-study-guide/assets/images/console-screenshot.png)
 
 
 ## Credits
